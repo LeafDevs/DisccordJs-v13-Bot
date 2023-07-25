@@ -10,7 +10,8 @@ eventHandler(client);
 
 
 // Replace 'YOUR_BOT_TOKEN' with your actual bot token
-const BOT_TOKEN = 'MTEzMTc2Mjg2OTUzMzQyMTY1OQ.GAUYdj.dWYWeSdrPo7JUO5-9xJJMLo40MkzC1edQR8lpQ'; // If you are using something like replit for bot hosting then put this in their enviroment table.
+const BOT_TOKEN = 'YOUR_BOT_TOKEN';
+ // If you are using something like replit for bot hosting then put this in their enviroment table.
 
 
 client.commands = new Collection()
